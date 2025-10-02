@@ -1,0 +1,7 @@
+CXX=g++
+CXXFLAGS=-O3 -march=native -std=c++17 -fopenmp
+all: saxpy
+saxpy: kernels/saxpy_stride.cpp
+	$(CXX) $(CXXFLAGS) $< -o saxpy
+clean:
+	rm -f saxpy

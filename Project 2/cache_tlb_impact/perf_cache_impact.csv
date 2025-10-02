@@ -1,0 +1,1 @@
+bytes,stride,pattern,sec,cycles,instr,ipc,L1_ld,L1_miss,LLC_ld,LLC_miss,br_miss,frontend_stall,backend_stall

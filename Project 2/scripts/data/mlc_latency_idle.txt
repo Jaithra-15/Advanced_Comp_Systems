@@ -1,0 +1,6 @@
+Intel(R) Memory Latency Checker - v3.11b
+Command line parameters: --idle_latency 
+
+Using buffer size of 500.000MiB
+*** Unable to modify prefetchers (try executing 'modprobe msr')
+*** So, enabling random access for latency measurements

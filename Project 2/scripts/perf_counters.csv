@@ -1,0 +1,1 @@
+mode,kernel,dtype,N,access,stride,misaligned,tail,instructions,cycles,CPI,L1_loads,L1_miss,L1_miss_rate,LLC_loads,LLC_miss,LLC_miss_rate,dTLB_loads,dTLB_miss,dTLB_miss_rate
